@@ -1,8 +1,8 @@
 <h1 align="center">Selamat datang di Tiket!</h1>
 
-## Apa itu Ticket?
+## Apa itu Tiket?
 
-## Fitur apa saja yang tersedia di Ticket?
+## Fitur apa saja yang tersedia di Tiket?
 
 -   Autentikasi Admin
 -   User & CRUD
@@ -28,7 +28,7 @@
 
 ```bash
 git@github.com:adenexplore/project_tiket_laravel.git
-cd Ticket-Laravel
+cd project_tiket_laravel
 composer install
 cp .env.example .env
 ```
