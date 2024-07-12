@@ -1,4 +1,4 @@
-<h1 align="center">Selamat datang di Ticket!</h1>
+<h1 align="center">Selamat datang di Tiket!</h1>
 
 ## Apa itu Ticket?
 
@@ -27,6 +27,7 @@
 1. **Clone Repository**
 
 ```bash
+git@github.com:adenexplore/project_tiket_laravel.git
 cd Ticket-Laravel
 composer install
 cp .env.example .env
